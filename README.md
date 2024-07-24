@@ -24,3 +24,6 @@ I want to know how to make steam graphs, as they are aesthetically pleasing and 
 | :--- | :--- | :--- |
 | Marvel Characters | A list of Marvel Character profiles including powers, appearance, personality, backstory, and character stats. Web scraping would be useful to find characters with certain traits. Coding could be used to sort and organize characters based on stat spread, and a character web connecting characters to franchises and teams could be coded based on key words in their character profiles. | [Marvel Character Database](https://www.marvel.com/characters) |
 | 19th Century American Children's Book Trade Directory | A dataset documenting activity of individual and firms involved in the manufacture and distribution of children's books. Two specific ways coding might be used is finding correlative and time series trend analysises and clustering individuals and/or firms into groups based on behavior and/or characteristics. | [19th Century American Children's Book Trade Directory](https://repository.upenn.edu/entities/dataset/16705c2f-023b-495e-baf4-dee805eae59f) |
+
+**Binder Badge**  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheSpamFan/dh-140-final.git/main)
