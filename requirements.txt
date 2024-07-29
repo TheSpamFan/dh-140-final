@@ -3,3 +3,4 @@ numpy
 gensim
 nltk
 matplotlib
+cloudscraper
