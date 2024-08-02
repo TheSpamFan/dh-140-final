@@ -20,3 +20,4 @@ Digital Humanities 140 Final Project
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TheSpamFan/dh-140-final.git/HEAD)
 
 **Blog Link**
+[![Quarto](https://img.shields.io/badge/Visit%20Blog-Quarto-green)](https://thespamfan.github.io/dh-140-blog/posts/final_blog.html)
